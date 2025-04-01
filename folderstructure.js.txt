@@ -1,0 +1,24 @@
+project-root/
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── contexts/
+│   │   └── AuthContext.js
+│   ├── data/
+│   │   └── initialUsers.js
+│   ├── components/
+│   │   ├── common/
+│   │   │   ├── Navbar.js
+│   │   │   ├── ProtectedRoute.js
+│   │   │   └── Layout.js
+│   │   └── employeeDetails/
+│   │       └── EmployeeDetailsPage.js
+│   └── pages/
+│       ├── ErrorPage.js
+│       ├── LoginPage.js
+│       ├── ManagerDashboard.js
+│       ├── ProfilePage.js
+│       └── ScorecardPage.js
+└── public/
+    ├── index.html
+    └── ...
